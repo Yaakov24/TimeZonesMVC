@@ -13,6 +13,10 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\Users\\ygold\\source\\repos\\TimeApp\\wwwroot\\images\\Screenshot 2024-08-12 172257.png",
+      "PackagePath": "staticwebassets\\images\\Screenshot 2024-08-12 172257.png"
+    },
+    {
       "Id": "C:\\Users\\ygold\\source\\repos\\TimeApp\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },

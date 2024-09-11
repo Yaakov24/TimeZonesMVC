@@ -18,7 +18,7 @@
     <form method="post">
         <div class="api-caller">
             <h3 for="timezone">Choose a time zone:</h3>
-            <select id="timezone" name="SelectedTimeZone" asp-items="Model.TimeZone">
+            <select id="timezone" name="SelectedTimeZone" asp-items="@Model.TimeZone">
                 <option value="">-- Select a time zone --</option>
             </select>
             <button type="submit">Submit</button>
@@ -28,7 +28,7 @@
 
     <div class="api-response-box">
         <p>Current Local Time In @Model.ApiResponseName:</p>
-        @if (Model.ApiResponseTime != null)
+        @if (@Model.ApiResponseTime != null)
         {
             <p>@Model.ApiResponseTime</p>
         }
@@ -37,7 +37,7 @@
         <div class="bottom-details">
 
             <h4>Date In @Model.ApiResponseName:</h4>
-            @if (Model.ApiResponseTime != null)
+            @if (@Model.ApiResponseTime != null)
             {
                 <h4> @Model.ApiDayTime</h4>
             }

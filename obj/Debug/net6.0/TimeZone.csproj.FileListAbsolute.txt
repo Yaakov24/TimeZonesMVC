@@ -31,3 +31,4 @@ C:\Users\ygold\source\repos\TimeApp\obj\Debug\net6.0\refint\TimeZone.dll
 C:\Users\ygold\source\repos\TimeApp\obj\Debug\net6.0\TimeZone.pdb
 C:\Users\ygold\source\repos\TimeApp\obj\Debug\net6.0\TimeZone.genruntimeconfig.cache
 C:\Users\ygold\source\repos\TimeApp\obj\Debug\net6.0\ref\TimeZone.dll
+C:\Users\ygold\source\repos\TimeApp\obj\Debug\net6.0\TimeZone.sourcelink.json

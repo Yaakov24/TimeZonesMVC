@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "LDXRz+HZBQt00D0cLAzvJBjPPBHpnbzn7KYveKKEOGc=",
+  "Hash": "ixDX5CkiZdobN8lRtgBoiolTmeyZMFGLFhyHVWClc4o=",
   "Source": "TimeZone",
   "BasePath": "_content/TimeZone",
   "Mode": "Default",
@@ -91,6 +91,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\ygold\\source\\repos\\TimeApp\\wwwroot\\images\\Screenshot 2024-08-12 172257.png",
+      "SourceId": "TimeZone",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ygold\\source\\repos\\TimeApp\\wwwroot\\",
+      "BasePath": "_content/TimeZone",
+      "RelativePath": "images/Screenshot 2024-08-12 172257.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\Screenshot 2024-08-12 172257.png"
     },
     {
       "Identity": "C:\\Users\\ygold\\source\\repos\\TimeApp\\wwwroot\\js\\site.js",

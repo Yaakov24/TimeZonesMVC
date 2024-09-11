@@ -4,7 +4,7 @@ using System.Net.Http;
 
 namespace TimeApp.Models
 {
-    public class TimeProps
+    public class TimeProps 
     {
         
         
