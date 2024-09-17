@@ -1,5 +1,6 @@
 using TimeApp.Models;
 using Microsoft.Extensions.Logging;
+using TimeZone.Models;
 
 namespace TimeApp
 {
@@ -11,6 +12,7 @@ namespace TimeApp
 
             builder.Services.AddControllersWithViews();
             builder.Services.AddHttpClient<TimeProps>();
+            builder.Services.AddTransient<TimeZoneNames>();
 
             var app = builder.Build();
 
